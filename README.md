@@ -7,6 +7,7 @@ Welcome to my corner of the coding universe! 🚀 As an initiative-taking IT gra
 
 ## 🚀 Certifications
 - AWS Cloud Practitioner (Passed)
+- AWS Solution Architect Associate (Passed)
 
 ## 💻 Tech Stack
 - **Languages:** C#, Java, JavaScript, Python
