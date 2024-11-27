@@ -18,10 +18,13 @@ Welcome to my corner of the coding universe! 🚀 As an initiative-taking IT gra
 
 ## 🌐 Career Highlights
 ### Current Position:
-**SRE at MYOB, Christchurch**
-- Deploying updates and fixes, providing Level 3 technical support, and automating tools for a seamless customer experience.
+**Cloud Support Engineer at AWS, Auckland**
+- Helping customers to troubleshoot and understand AWS deployment tools such as CloudFormation, CDK, Elasticbeanstalk
 
 ### Previous Experience:
+**SRE at MYOB, Christchurch**
+- Deploying updates and fixes, providing Level 3 technical support, and automating tools for a seamless customer experience.
+  
 **Technical/ANZ Payroll Support Specialist at MYOB**
 - Troubleshooting system and network problems, providing procedural documentation, and analyzing customer queries for continuous improvement.
 
